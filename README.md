@@ -62,7 +62,7 @@ En 2024 el protagonismo cambió hacia Intel, Tesla, Cisco, Dell y Microsoft.
 
 ## 🗄️ Dataset
 
-Fuente: Layoffs.fyi
+Fuente: 'Layoffs Dataset' - Kaggle. Obtenido de: Layoffs.fyi
 
 Cobertura: Marzo 2020 – Abril 2025
 
