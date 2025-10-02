@@ -87,6 +87,6 @@ README.md → Documentación del proyecto.
 ## 🤝 ¡Hablemos!
 👤 Pedro Gil Olivares
 
-🔗 LinkedIn
+🔗 www.linkedin.com/in/pedro-gil-olivares-485517216
 
 📧 pedrogilolivares009@gmail.com
