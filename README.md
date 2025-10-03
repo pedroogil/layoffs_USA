@@ -68,13 +68,11 @@ Cobertura: Marzo 2020 – Abril 2025
 
 Granularidad: Evento de despido por empresa/ubicación/fecha
 
-Limitaciones:
+## Limitaciones:
 
-Algunos despidos reportados sin cifras exactas.
+- Algunos despidos reportados sin cifras exactas.
 
-Varias empresas con fuentes duplicadas o inconsistentes.
-
-Dataset no exhaustivo: refleja los casos reportados en medios, no el 100% del mercado.
+- Dataset no exhaustivo: refleja los casos reportados en medios, no el 100% del mercado.
 
 ## 📂 Estructura del repositorio
 
